@@ -1,0 +1,47 @@
+
+.body{
+    
+}
+
+.navegação{
+    justify-content: center;
+    display: flex;
+
+}
+
+.menu{
+    color:brown;
+    text-decoration: none;
+    padding: 5px;
+    margin: 10px;
+    background-color: black ;
+    border:15px;
+    font-family: "Times New Roman", Times, serif;
+    
+}
+
+.div1{
+    display: flex;
+    justify-content: center;
+}
+
+.img{
+    width: 500px;
+    height: 500px;
+    border: 30px solid black;
+    border-radius: 30px;
+
+}
+
+.paragrago1{ 
+    font-family: 'Times New Roman', Times, serif;
+    border: 15px;
+    width: 15px;
+    height: 40px ;
+    padding: 40px;
+    margin: 40px;
+    background-color: brown;
+}
+
+
+
